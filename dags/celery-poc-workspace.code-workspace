@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../dummy-celery-client"
+		},
+		{
+			"path": "../../dummy-celery-worker"
+		},
+		{
+			"name": "dummy-airflow-queues",
+			"path": ".."
+		},
+		{
+			"name": "airflow-with-custom-celery-backends",
+			"path": "../../airflow-with-custom-celery-backends"
+		}
+	],
+	"settings": {}
+}
